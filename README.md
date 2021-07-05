@@ -1,15 +1,16 @@
-## MySetup NodeJS
+## FaunaDB com NodeJS
 ![Badge](https://img.shields.io/static/v1?label=DH&message=DOSOMETHINGGREAT&color=0070f3&style=<0070f3>&logo=rocket)
 
 ### Description
 
-This is my basic configuration of nodejs projects with express, using code patterns like ESLint, Prettier and EditorConfig.
+Test app to assess Fauna integration with Node.js.
 
 ### Techs
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
+- [Fauna](https://fauna.com/)
 
 ### Code Standards
 
@@ -38,12 +39,12 @@ Follow the instructions below to download and use the project from this reposito
 
 ```bash
 # Clone this repository using SSH
-$ git clone git@github.com:daniel21h/mysetup-nodejs.git
+$ git clone git@github.com:daniel21h/fauna-node.git
 # or clone using https
-$ git clone https://github.com/daniel21h/mysetup-nodejs.git
+$ git clone https://github.com/daniel21h/fauna-node.git
 
 # Go into the repository
-$ cd mysetup-node
+$ cd fauna-node
 
 # Install dependencies
 $ yarn
